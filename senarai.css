@@ -1,0 +1,34 @@
+.blank{
+    position: absolute;
+    left:300px;
+    border: 2.5px solid black;
+}
+.main{
+    position: relative;
+
+}
+th{
+    color:rgb(0,0,120);
+    border:2px solid black;
+}
+td{
+    color:rgb(170,0,120);
+    border:1px solid black;
+}
+
+.alamat{
+    position: relative;
+
+}
+label{
+    color:darkblue;
+    font-style:italic;
+    font-size: large;
+}
+.month{
+    position: relative;
+    left:300px;
+}
+.note{
+    color:red;
+}

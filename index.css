@@ -1,0 +1,40 @@
+body{
+    background-image: url('assets/login-2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div.box{
+    width:max;
+    height:50px;
+    border:1px solid #000;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
+}
+
+h4 {
+    font-style:italic;
+}
+
+a{
+    float:right;
+}
+
+footer {
+    position:relative;
+    top:60px;
+    width:max;
+    height:40px;
+    border:1px solid black;
+    color:black;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size:16px;
+    font-weight:bold;
+    font-style:italic;
+}
